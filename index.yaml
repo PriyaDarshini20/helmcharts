@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  datalore:
+  - apiVersion: v2
+    appVersion: 2022.2.2
+    created: "2023-02-23T12:38:51.476488063Z"
+    digest: 83148d53ca28bf6f71ec93b28d5550ce0c4b59d2921f77504128d0fccc16b130
+    name: datalore
+    type: application
+    urls:
+    - datalore-0.2.4-SNAPSHOT.tgz
+    version: 0.2.4-SNAPSHOT
+generated: "2023-02-23T12:38:51.475262448Z"
